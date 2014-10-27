@@ -1,7 +1,7 @@
 czerocase-logging-listner-console
 =================================
 
-Listner log console for the **logging** module for the framework **CZeroCase**.
+Listner log console for the **logging** module [czerocase-logging](https://github.com/filippocerfeda/czerocase-logging). for the framework **CZeroCase**.
 
 
 CZEROCASE Project
