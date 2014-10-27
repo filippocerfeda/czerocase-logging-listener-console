@@ -1,5 +1,5 @@
-czerocase-logging
-==============
+czerocase-logging-listner-console
+=================================
 
 Listner log console for the "logging" module for the framework CZeroCase.
 
