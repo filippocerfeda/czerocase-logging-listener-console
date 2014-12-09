@@ -8,7 +8,7 @@
  * 
  *  Copyright (C) 2012 ImagoItalia srl <http://www.imagoitalia.com>
  *  
- *  This file is part of Czero Case.
+ *  This files are part of Czero Case.
  *  
  *  Czero Case is free software: you can redistribute it and/or modify
  *  it under the terms of the GNU General Public License as published by
